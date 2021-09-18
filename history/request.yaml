@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: RS03ECAL-MJ03E-12-CTDPFB306-streamed-ctdpf_optode_sample
 last_request: '2021-09-18T00:09:58.830236Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03ECAL-MJ03E-12-CTDPFB306-streamed-ctdpf_optode_sample/main/history/response.json
-status: pending
+status: success
