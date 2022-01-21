@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03ECAL-MJ03E-12-CTDPFB306-streamed-ctdpf_optode_sample
 data_stream: RS03ECAL-MJ03E-12-CTDPFB306-streamed-ctdpf_optode_sample
 end_date: '2022-01-21T03:05:45.267Z'
-last_updated: '2022-01-21T07:37:38.803194Z'
+last_updated: '2022-01-21T07:40:45.187577'
 start_date: '2020-08-20T18:01:22.817Z'
-status: pending
+status: failed
